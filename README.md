@@ -13,6 +13,4 @@ The following gradient descent modes are supported:
 
 The following loss functions are supported:
     - cross-entropy
-    - hinge
-    - hinge squared
     - mse
